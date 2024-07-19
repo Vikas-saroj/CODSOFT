@@ -85,7 +85,7 @@ buttons = [
 ]
 
 # Load the image for the delete button
-img = Image.open('images/delete.png')
+img = Image.open('images/delete_c.png')
 
 # Add buttons to the grid with reduced padding
 for (text, row, col) in buttons:
